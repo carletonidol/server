@@ -30,7 +30,7 @@
 	color: white;
 	height: 100%;
 	display: table-cell;
-	verticle-align: middle;
+	vertical-align: middle;
 	font-family: 'Rubik';
 	font-size: 32px;
 	font-weight: 200;
@@ -54,7 +54,7 @@
 
 .navigation a li {
 	display: table-cell;
-	verticle-align: middle;
+	vertical-align: middle;
 	height: 100%;
 	color: white;
 	font-family: 'Rubik';
