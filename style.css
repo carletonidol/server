@@ -1,8 +1,7 @@
-h1 {
-		display: flex;
-		flex-direction: row;
-		color: blue;
-	}
+body {
+	margin: 0px;
+
+}
 
 .hero {
 	background-color: cyan;
