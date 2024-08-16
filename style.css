@@ -59,13 +59,13 @@
 	display: table-cell;
 	vertical-align: middle;
 	height: 100%;
-	color: #D3D3D3;
+	color: white;
 	font-family: 'Rubik';
 	font-size: 16px;
 }
 
 .navigation a li:hover {
-	color: white;
+	color: silver;
 
 }
 
