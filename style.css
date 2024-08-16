@@ -21,6 +21,11 @@
 	background-color: red;
 }
 
+.logo_container {
+	height: 100%;
+	display: table;
+	float: left;
+}
 .hero {
 	background-color: cyan;
 	background-image: url("bg.jpg");
