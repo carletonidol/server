@@ -5,7 +5,9 @@ h1 {
 	}
 
 .hero {
-
+	background-color: cyan;
+	background-image: url();
+	color: white;
 
 }
 
