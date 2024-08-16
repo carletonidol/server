@@ -6,7 +6,7 @@ h1 {
 
 .hero {
 	background-color: cyan;
-	background-image: url();
+	background-image: url("bg.jpg");
 	color: white;
 
 }
