@@ -26,6 +26,16 @@
 	display: table;
 	float: left;
 }
+
+.logo_container h1{
+	color: white;
+	height: 100%;
+	display: table-cell;
+	verticle-align: middle;
+	font-family: 'Rubik';
+	font-size: 32px;
+	
+	
 .hero {
 	background-color: cyan;
 	background-image: url("bg.jpg");
