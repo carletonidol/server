@@ -69,13 +69,12 @@
 
 }
 
-.hero {
+.background_1 {
 	background-color: cyan;
 	background-image: url("bg.jpg");
-	color: white;
 
-	padding-top: 200px;
-	padding-bottom: 200px;
+	//padding-top: 200px;
+	//padding-bottom: 200px;
 
 }
 
