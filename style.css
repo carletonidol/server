@@ -102,8 +102,13 @@
 
 }
 
-.headliner {
+.headliner_container {
 	height: 100%;
 	display: block;
 	float: left;
+}
+
+.headliner {
+	color: blue;
+
 }
