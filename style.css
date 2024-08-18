@@ -81,8 +81,8 @@
 }
 
 .background_1 {
-	background-color: cyan;
-	background-image: url("bg.jpg");
+	background-color: white;
+	//background-image: url("bg.jpg");
 
 	//padding-top: 200px;
 	//padding-bottom: 200px;
