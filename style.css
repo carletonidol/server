@@ -36,6 +36,7 @@
 	height: 100%;
 	display: table;
 	float: left;
+	text-align: center;
 }
 
 .logo_name h1{
