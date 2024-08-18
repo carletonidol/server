@@ -26,13 +26,18 @@
 	float: left;
 }
 
-.name_container {
+.logo_img {
 	height: 100%;
 	display: table;
 	float: left;
 }
 
-.logo_container h1{
+.logo_name {
+	height: 100%;
+	display: table;
+	float: left;
+}
+.logo_name h1{
 	color: white;
 	height: 100%;
 	display: table-cell;
