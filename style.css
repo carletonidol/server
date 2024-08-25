@@ -39,20 +39,6 @@
 	text-align: center;
 }
 
-.logo_name h1{
-	color: white;
-	height: 100%;
-	display: table-cell;
-	vertical-align: middle;
-	font-family: 'Kanit';
-	font-size: 32px;
-	font-weight: 200;
-}
-
-.logo_container h1 span{
-	font-weight: 800;
-}
-
 .logo_name a {
 	color: white;
 	height: 100%;
