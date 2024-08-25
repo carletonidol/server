@@ -53,6 +53,16 @@
 	font-weight: 800;
 }
 
+.logo_name a {
+	color: white;
+	height: 100%;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'Kanit';
+	font-size: 32px;
+	font-weight: 200;
+}
+
 .navigation {
 	float: right;
 	height: 100%;
