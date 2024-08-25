@@ -31,15 +31,15 @@
 	display: table;
 	float: left;
 }
-
+/*
 .logo_name {
 	height: 100%;
 	display: table;
 	float: left;
 	text-align: center;
 }
-
-.logo_name a {
+*/
+.logo_container a {
 	color: white;
 	height: 100%;
 	display: table-cell;
