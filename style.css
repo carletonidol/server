@@ -22,8 +22,10 @@
 
 .logo_container {
 	height: 100%;
-	display: table;
+	display: flex;
 	float: left;
+	align-items: center;
+	gap: 4px;
 }
 
 .logo_container a {
@@ -32,10 +34,10 @@
 	float: left;
 }
 
-.logo_container a li h1 {
+.logo_container h1 {
 	display: table-cell;
 	vertical-align: middle;
-	height: 100%;
+	height: fit-content;
 	color: white;
 	font-family: 'Kanit';
 	font-size: 32px;
