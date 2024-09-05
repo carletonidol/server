@@ -107,17 +107,20 @@
 
 }
 
+.headliner ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px;
 
+}
 
-/*
-.headliner_container {
-	height: 100%;
+.headliner a {
+	color: white;
+	font-family: 'Kanit';
+	padding: 8px;
 	display: table;
 	float: left;
-}
-
-.headliner {
-	color: blue;
 
 }
-*/
+
