@@ -10,7 +10,7 @@
 	width: 100%;
 	height: 80px;
 	display: block;
-	//background-color: #ed5cae;
+	/*background-color: #ed5cae;*/
 }
 
 .inner_header {
@@ -43,30 +43,6 @@
 	font-size: 32px;
 }
 
-/*
-.logo_img {
-	height: 100%;
-	display: table;
-	float: left;
-}
-
-.logo_name {
-	height: 100%;
-	display: table;
-	float: left;
-	text-align: center;
-}
-
-.logo_container a {
-	color: white;
-	height: 100%;
-	display: table-cell;
-	vertical-align: middle;
-	font-family: 'Kanit';
-	font-size: 32px;
-	font-weight: 200;
-}
-*/
 .navigation {
 	float: right;
 	height: 100%;
@@ -101,26 +77,39 @@
 	background-color: white;
 	background-image: url("bg.jpg");
 
-	//padding-top: 200px;
-	//padding-bottom: 200px;
-
 }
 
 .section_1 {
 	width: 100%;
-	height: 850px;
+	height: 650px;
 	display: flex;
 	align-items: center;
+	justify-content: center;
 }
 
-.inner_section_1 {
-	width: 100%;
-	height: 60%;
-	display: block;
-	margin: 0 auto;
+
+.headliner {
+	text-align: center;
+}
+
+.headliner h1 {
+	color: white;
+	font-family: 'Kanit';
+	padding: 10px;
+	font-size: 40px;
 
 }
 
+.headliner h4 {
+	color: white;
+	font-family: 'Kanit';
+	padding: 10px;
+
+}
+
+
+
+/*
 .headliner_container {
 	height: 100%;
 	display: table;
@@ -131,3 +120,4 @@
 	color: blue;
 
 }
+*/
