@@ -124,3 +124,15 @@
 
 }
 
+.subheadliner {
+	display: flex;
+}
+
+.title {
+	display: flex;
+}
+
+.title_image {
+	display: flex;
+
+}
