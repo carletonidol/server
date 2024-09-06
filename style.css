@@ -133,6 +133,7 @@
 }
 
 .title_image {
-	display: flex;
+	display: table_cell;
+	float: left;
 
 }
