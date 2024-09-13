@@ -18,6 +18,7 @@
 	height:100%;
 	display: block;
 	margin: 0 auto;
+
 }
 
 .logo_container {
@@ -91,9 +92,32 @@
 	justify-content: center;
 }
 
+/*
+.sect_1_left {
+	display: flex;
+	text-align: center;
+	width: 33%;
+	height: 100%;
+
+	
+}
+
+.promo_icon_1 {
+
+
+}
+*/
+.sect_1_center {
+	display: flex;
+	text-align: center;
+	width: 33%;
+	height: 100%;
+
+}
 
 .headliner {
 	text-align: center;
+	margin-top: 40%;
 }
 
 .headliner h1 {
@@ -128,20 +152,12 @@
 
 }
 
-.subheadliner {
+/*
+.sect_1_right {
 	display: flex;
-	text-align: center;
-	align-items: center;
-	justify-content: center;
-	
-}
+	width: 33%;
+	height: 100%;
 
-.title {
-	display: flex;
-}
-
-.title_image {
-	display: table_cell;
-	float: left;
 
 }
+*/
