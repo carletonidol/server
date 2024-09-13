@@ -74,8 +74,12 @@
 }
 
 .background_1 {
-	background-color: white;
-	background-image: url("bg.jpg");
+	background-color: rgb(214, 74, 116);
+	background-image: url("idols_1.png");
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-position: right 174% bottom 1100%;
+	
 
 }
 
